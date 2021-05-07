@@ -1,0 +1,132 @@
+*{
+
+    margin:  5px ;
+    padding: 5px ;
+    
+    }
+    
+    
+    input{
+        
+        margin: auto;
+        width: 60%;
+        height: 1cm;
+        border: 2px solid black;
+        border-radius: 6px;
+        outline: none;
+       text-align: center;
+     
+       font-family: 'Kiwi Maru', serif;
+    
+    }
+    
+    form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    font-family: 'Kiwi Maru', serif;
+    
+    }
+    
+    
+    .btn{
+    
+        color: white;
+        background: orange;
+        padding: 8px 12px;
+        font-size: 20px;
+        border: 2px solid white;
+        border-radius: 5px;
+        cursor: pointer;
+    
+    }
+    
+    
+    
+    .grade1{
+    
+    width: 30px;
+    height: 30px;
+    order: 30% solid rgb(0, 0, 0);
+    border-radius: 30%;
+    
+    }
+    
+    
+    element.style {
+        position: absolute;
+        left: -28px;
+        top: -28px;
+        background-color: #fa0c0c;
+        width: 180px;
+        height: 180px;
+    }
+    
+    .ban1{
+    
+     position: absolute;
+        z-index: -1;
+        opacity: 2;
+        margin:7%;
+    padding: 5%;
+    
+    }
+    
+    .fei1{
+    
+    width: 60%;
+    height: 50%;
+    background-color: white;
+    
+    }
+    
+    .ett{
+    
+    margin: 50px;
+    padding: 50px;
+    
+    }
+    
+    .grade2{
+    
+      margin: auto;
+        width: 63%;
+        height: 1.2cm;
+        border: 2px solid black;
+        border-radius: 6px;
+        outline: none;
+       text-align: center;
+     
+       font-family: 'Kiwi Maru', serif;
+    
+    }
+    
+    .qna{
+    
+      width: auto;  
+      display:inline; 
+    
+    
+    }
+    
+    .que{
+    
+    
+      
+         margin: auto;
+           width: 100%;
+           height: 1.2cm;
+           border: 2px solid black;
+           border-radius: 6px;
+           outline: none;
+          text-align: center;
+         
+          font-family: 'Kiwi Maru', serif;
+    
+    }
+    
+    
+    
+    
